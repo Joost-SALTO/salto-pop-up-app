@@ -54,7 +54,7 @@
     "babel-plugin-module-resolver": "^3.1.1",
     "concurrently": "^4.1.0",
     "copyfiles": "^2.1.0",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "jest": "^24.8.0",
     "metro-react-native-babel-preset": "^0.54.0",
     "nodemon": "^1.18.7",
